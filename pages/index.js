@@ -62,7 +62,7 @@ export default function Home({ session }) {
         {!session?.user ? (
           <div>
             <p>
-              Welcome to Adrenargy. Kindly Login to your account or sign in for
+              Welcome to MTD Technologies. Kindly Login to your account or sign in for
               a demo
             </p>
           </div>
